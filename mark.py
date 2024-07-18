@@ -9,6 +9,7 @@ def createBucket(BucketName, region='ap-south-1'):
              'LocationConstraint': region
          }
          
+         
     )
     print("Bucket created successfully")
     return
