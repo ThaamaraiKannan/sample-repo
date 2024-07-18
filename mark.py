@@ -12,6 +12,7 @@ def createBucket(BucketName, region='ap-south-1'):
          
     )
     print("Bucket created successfully")
+    
     return
 
 def putBucketAcl(BucketName):
