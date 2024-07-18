@@ -81,3 +81,4 @@ def emptyBucket(BucketName):
         )
     print("Bucket is empty Now!")
     return
+print("dummy")
